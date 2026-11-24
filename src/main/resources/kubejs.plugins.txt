@@ -1,0 +1,2 @@
+# KubeJS plugin classes provided by GUIJS (loaded by KubeJS at startup)
+com.guijs.kubejs.GuiJSPlugin
